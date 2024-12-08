@@ -48,5 +48,5 @@ I am a multi-field technology developer focusing on AI, generative technology, c
 ## 📬 Contact me
 
 - **Email**: a0980368677@gmail.com
-- **LinkedIn**: [Your LinkedIn profile link](https://www.linkedin.com/in/waldo870)
-- **Twitter**: [your Twitter account](https://twitter.com/waldo870)
+- **LinkedIn**: [My LinkedIn profile link](https://www.linkedin.com/in/waldo870)
+- **Twitter**: [My Twitter account](https://twitter.com/waldo870)
